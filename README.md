@@ -1,5 +1,5 @@
 ### Olá! eu sou o Magosso
-- 🔭 Atualmente somente estudando
+- 🔭 Atualmente estudando na Universidade Uniderp
 - 🌱 Eu estou aprendendo Java
 - 😄 Pronouns: ele/dele
 <div align="center">
