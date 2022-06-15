@@ -1,6 +1,6 @@
 ### Olá! eu sou o Magosso
 - 🔭 Atualmente estudando na Universidade Uniderp
-- 🌱 Eu estou aprendendo Java
+- 🌱 Eu estou aprendendo Python
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/magossinho123">
